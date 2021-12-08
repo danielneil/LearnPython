@@ -2,6 +2,8 @@
 
 Python learning material for absolute beginners.
 
+What you will need.
+
 ## Lesson 1
 
 ## Lesson 2
