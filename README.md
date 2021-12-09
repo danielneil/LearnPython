@@ -2,7 +2,7 @@
 
 Python learning material for absolute beginners.
 
-What you will need.
+Learning preq
 
 ## Lesson 1
 
